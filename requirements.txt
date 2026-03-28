@@ -1,0 +1,3 @@
+Flask==3.1.1
+# requests is used for both market-data fetches and the Gemini API call.
+requests==2.32.3
