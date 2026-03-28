@@ -53,6 +53,11 @@ ASSET_METADATA = {
         "name": "Euro / South African Rand",
         "category": "Forex",
     },
+    "GBPZAR.FOREX": {
+        "symbol": "GBPZAR",
+        "name": "British Pound / South African Rand",
+        "category": "Forex",
+    },
     "USDCHF.FOREX": {
         "symbol": "USDCHF",
         "name": "US Dollar / Swiss Franc",
